@@ -1,0 +1,43 @@
+1 : All's Well That Ends Well
+2 : As You Like It
+3 : The Comedy of Errors
+4 : Cymbeline
+5 : Love's Labours Lost
+6 : Measure for Measure
+7 : The
+8 : Merry Wives of Windsor
+9 : The Merchant of Venice
+10 : A Midsummer Night's Dream
+11 : Much Ado About Nothing
+12 : Pericles, Prince of Tyre
+13 : Taming of the Shrew
+14 : The Tempest
+15 : Troilus and Cressida
+16 : Twelfth Night
+17 : Two Gentlemen of Verona
+18 : Winter's Tale
+19 : Henry IV, part 1
+20 : Henry IV, part 2
+21 : Henry V
+22 : Henry VI, part 1
+23 : Henry VI, part 2
+24 : Henry VI, part 3
+25 : Henry VIII
+26 : King John
+27 : Richard II
+28 : Richard III
+29 : Antony and Cleopatra
+30 : Coriolanus
+31 : Hamlet
+32 : Julius Caesar
+33 : King Lear
+34 : Macbeth
+35 : Othello
+36 : Romeo and Juliet
+37 : Timon of Athens
+38 : Titus Andronicus
+39 : The Sonnets
+40 : A Lover's Complaint
+41 : The Rape of Lucrece
+42 : Venus and Adonis
+43 : Funeral Elegy by W.S.
